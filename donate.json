@@ -1,46 +1,208 @@
-
 {
     "Servers": [
         {
             "Tambahan": "766D6573733A2F2F65794A685A4751694F694A705A4335324D69317959586B75593239744969776959576C6B496A6F694D7A49694C434A6F62334E30496A6F6961575175646A4974636D46354C6D4E7662534973496D6C6B496A6F694D6D52694D54566A4E4467745A57497A597930304E32566B4C54686C4E4751744F4452694F5755334E6A6C685A6A6B7749697769626D5630496A6F6964334D694C434A775958526F496A6F694C325A686333527A6332672F645678314D44417A5A47686A64575A315A6C78314D4441794E6E4263645441774D3251324D54597A4E5749775A6D59775A446734584855774D444932496977696347397964434936496A51304D794973496E427A496A6F6957303947526B784A546B566449456C4F5245394F52564E4A515341784969776963324E35496A6F695958563062794973496E4E7561534936496D6C6B4C6E59794C584A686553356A623230694C434A3062484D694F694A3062484D694C434A306558426C496A6F694969776964694936496A496966513D3D"
         },
-
-		{
-			"ServerName":"[A] SINGAPORE 1",
-			"ServerIP":"adsnet1.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] SINGAPORE 2",
-			"ServerIP":"adsnet2.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] SINGAPORE 3",
-			"ServerIP":"adsnet3.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] UNITED KINGDOM 1",
-			"ServerIP":"adsnet16.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] UNITED KINGDOM 2",
-			"ServerIP":"adsnet17.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] UNITED KINGDOM 3",
-			"ServerIP":"adsnet18.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] UNITED STATES 1",
-			"ServerIP":"adsnet21.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] UNITED STATES 2",
-			"ServerIP":"adsnet22.pete-dnsmaker.com"
-		},
-		{
-			"ServerName":"[A] UNITED STATES 3",
-			"ServerIP":"adsnet23.pete-dnsmaker.com"
-		},
+        {
+            "ServerName": "[A] SINGAPORE 1",
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 2",
+            "ServerIP": "adsnet2.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 3",
+            "ServerIP": "adsnet3.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 4",
+            "ServerIP": "adsnet4.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 5",
+            "ServerIP": "adsnet5.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 6",
+            "ServerIP": "adsnet6.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 7",
+            "ServerIP": "adsnet7.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 8",
+            "ServerIP": "adsnet8.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 9",
+            "ServerIP": "adsnet9.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 10",
+            "ServerIP": "adsnet10.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 11",
+            "ServerIP": "adsnet11.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 12",
+            "ServerIP": "adsnet12.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 13",
+            "ServerIP": "adsnet13.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 14",
+            "ServerIP": "adsnet14.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE 15",
+            "ServerIP": "adsnet15.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 1",
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 2",
+            "ServerIP": "adsnet2.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 3",
+            "ServerIP": "adsnet3.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 4",
+            "ServerIP": "adsnet4.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 5",
+            "ServerIP": "adsnet5.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 6",
+            "ServerIP": "adsnet6.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 7",
+            "ServerIP": "adsnet7.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 8",
+            "ServerIP": "adsnet8.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 9",
+            "ServerIP": "adsnet9.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 10",
+            "ServerIP": "adsnet10.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 11",
+            "ServerIP": "adsnet11.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 12",
+            "ServerIP": "adsnet12.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 13",
+            "ServerIP": "adsnet13.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 14",
+            "ServerIP": "adsnet14.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] SINGAPORE GAME 15",
+            "ServerIP": "adsnet15.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 1",
+            "ServerIP": "adsnet16.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 2",
+            "ServerIP": "adsnet17.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 3",
+            "ServerIP": "adsnet18.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 4",
+            "ServerIP": "adsnet19.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 5",
+            "ServerIP": "adsnet20.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 6",
+            "ServerIP": "adsnet16.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 7",
+            "ServerIP": "adsnet17.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 8",
+            "ServerIP": "adsnet18.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 9",
+            "ServerIP": "adsnet19.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] ENGLAND 10",
+            "ServerIP": "adsnet20.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 1",
+            "ServerIP": "adsnet21.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 2",
+            "ServerIP": "adsnet22.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 3",
+            "ServerIP": "adsnet23.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 4",
+            "ServerIP": "adsnet24.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 5",
+            "ServerIP": "adsnet25.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 6",
+            "ServerIP": "adsnet21.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 7",
+            "ServerIP": "adsnet22.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 8",
+            "ServerIP": "adsnet23.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 9",
+            "ServerIP": "adsnet24.pete-dnsmaker.com"
+        },
+        {
+            "ServerName": "[A] UNITED STATES 10",
+            "ServerIP": "adsnet25.pete-dnsmaker.com"
+        },
         {
             "ServerName": "[B] TELKOMSEL GAMES MAX",
             "ServerIP": "104.19.143.108"
@@ -281,7 +443,7 @@
             "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 2",
             "PayloadHost": "104.17.3.81"
         },
-                {
+        {
             "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 3",
             "PayloadHost": "www.skillacademy.com"
         },
@@ -349,46 +511,209 @@
             "PayloadName": "[A] XL OPOK",
             "PayloadHost": "104.18.12.65"
         },
-
-		{
-			"PayloadName":"[B] SINGAPORE 1",
-			"PayloadHost":"adsnet1.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] SINGAPORE 2",
-			"PayloadHost":"adsnet2.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] SINGAPORE 3",
-			"PayloadHost":"adsnet3.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] UNITED KINGDOM 1",
-			"PayloadHost":"adsnet16.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] UNITED KINGDOM 2",
-			"PayloadHost":"adsnet17.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] UNITED KINGDOM 3",
-			"PayloadHost":"adsnet18.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] UNITED STATES 1",
-			"PayloadHost":"adsnet21.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] UNITED STATES 2",
-			"PayloadHost":"adsnet22.pete-dnsmaker.com"
-		},
-		{
-			"PayloadName":"[B] UNITED STATES 3",
-			"PayloadHost":"adsnet23.pete-dnsmaker.com"
-		}
+        {
+            "PayloadName": "[B] SINGAPORE 1",
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 2",
+            "PayloadHost": "adsnet2.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 3",
+            "PayloadHost": "adsnet3.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 4",
+            "PayloadHost": "adsnet4.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 5",
+            "PayloadHost": "adsnet5.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 6",
+            "PayloadHost": "adsnet6.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 7",
+            "PayloadHost": "adsnet7.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 8",
+            "PayloadHost": "adsnet8.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 9",
+            "PayloadHost": "adsnet9.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 10",
+            "PayloadHost": "adsnet10.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 11",
+            "PayloadHost": "adsnet11.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 12",
+            "PayloadHost": "adsnet12.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 13",
+            "PayloadHost": "adsnet13.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 14",
+            "PayloadHost": "adsnet14.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE 15",
+            "PayloadHost": "adsnet15.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 1",
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 2",
+            "PayloadHost": "adsnet2.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 3",
+            "PayloadHost": "adsnet3.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 4",
+            "PayloadHost": "adsnet4.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 5",
+            "PayloadHost": "adsnet5.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 6",
+            "PayloadHost": "adsnet6.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 7",
+            "PayloadHost": "adsnet7.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 8",
+            "PayloadHost": "adsnet8.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 9",
+            "PayloadHost": "adsnet9.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 10",
+            "PayloadHost": "adsnet10.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 11",
+            "PayloadHost": "adsnet11.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 12",
+            "PayloadHost": "adsnet12.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 13",
+            "PayloadHost": "adsnet13.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 14",
+            "PayloadHost": "adsnet14.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] SINGAPORE GAME 15",
+            "PayloadHost": "adsnet15.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 1",
+            "PayloadHost": "adsnet16.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 2",
+            "PayloadHost": "adsnet17.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 3",
+            "PayloadHost": "adsnet18.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 4",
+            "PayloadHost": "adsnet19.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 5",
+            "PayloadHost": "adsnet20.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 6",
+            "PayloadHost": "adsnet16.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 7",
+            "PayloadHost": "adsnet17.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 8",
+            "PayloadHost": "adsnet18.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 9",
+            "PayloadHost": "adsnet19.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] ENGLAND 10",
+            "PayloadHost": "adsnet20.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 1",
+            "PayloadHost": "adsnet21.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 2",
+            "PayloadHost": "adsnet22.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 3",
+            "PayloadHost": "adsnet23.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 4",
+            "PayloadHost": "adsnet24.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 5",
+            "PayloadHost": "adsnet25.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 6",
+            "PayloadHost": "adsnet21.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 7",
+            "PayloadHost": "adsnet22.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 8",
+            "PayloadHost": "adsnet23.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 9",
+            "PayloadHost": "adsnet24.pete-dnsmaker.com"
+        },
+        {
+            "PayloadName": "[B] UNITED STATES 10",
+            "PayloadHost": "adsnet25.pete-dnsmaker.com"
+        }
     ],
     "Version": {
-        "VersionCode": "9.0",
-        "ChangeLogs": "Update Server :\n+ United Kingdom\n+ United States\n\nUpdate Bughost :\n- No\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.10",
+        "ChangeLogs": "Update Server :\n+ Singapore\n+ Singapore Game\n+ United Kingdom\n+ United States\n\nUpdate Bughost :\n- No\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
