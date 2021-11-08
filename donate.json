@@ -500,6 +500,10 @@
             "PayloadHost": "api.midtrans.com"
         },
         {
+            "PayloadName": "[A] TELKOMSEL UNLIMAX 1 (TEST)",
+            "PayloadHost": "api.starmakerstudios.com"
+        },
+        {
             "PayloadHost": "s.udemycdn.com",
             "PayloadName": "[A] XL EDUKASI 1"
         },
@@ -713,7 +717,7 @@
         }
     ],
     "Version": {
-        "VersionCode": "9.10",
-        "ChangeLogs": "Update Server :\n+ Singapore\n+ Singapore Game\n+ United Kingdom\n+ United States\n\nUpdate Bughost :\n- No\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.11",
+        "ChangeLogs": "Update Server :\n+ Singapore\n+ Singapore Game\n+ United Kingdom\n+ United States\n\nUpdate Bughost :\n- Telkomsel Unlimax (Test)\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
