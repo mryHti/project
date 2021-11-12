@@ -250,6 +250,18 @@
         {
             "ServerName": "[B] [MALAYSIA] MAXIS",
             "ServerIP": "aoc.maxis.com.my"
+        },
+        {
+            "ServerName": "[B] [MALAYSIA] UMOBILE",
+            "ServerIP": "test.gz.net.my"
+        },
+        {
+            "ServerName": "[B] [MALAYSIA] YOODO",
+            "ServerIP": "app.yoodo.com.my"
+        },
+        {
+            "ServerName": "[B] [MALAYSIA] CELCOM",
+            "ServerIP": "35.244.194.123"
         }
     ],
     "Servers2": [
@@ -717,7 +729,7 @@
         }
     ],
     "Version": {
-        "VersionCode": "9.12",
-        "ChangeLogs": "Update Server :\n+ Indonesia\n\nUpdate Bughost :\n- No\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.13",
+        "ChangeLogs": "Update Server :\n- No\n\nUpdate Bughost :\n+ 🇲🇾 Umobile \n+ 🇲🇾 Yoodo\n+ 🇲🇾 Celcom\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
