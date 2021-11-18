@@ -104,7 +104,7 @@
     ],
     "Servers2": [
         {
-            "ServerName": "Terimakasih telah setia bersama Free to Fly",
+            "ServerName": "Kami juga punya versi berbayar dari aplikasi ini dengan kualitas koneksi yang lebih baik, dan server yang lebih banyak. Selengkapnya silakan periksa di Telegram kami.",
             "ServerIP": "google.com"
         }
     ],
@@ -400,7 +400,7 @@
 		}
     ],
     "Version": {
-        "VersionCode": "8.61",
-        "ChangeLogs": "Update Server :\n- No\n\nUpdate Bughost :\n+ 🇲🇾 Umobile \n+ 🇲🇾 Yoodo\n+ 🇲🇾 Celcom\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "8.62",
+        "ChangeLogs": "Update Server :\n- Mengatasi Sunek\n\nUpdate Bughost :\n- No\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
