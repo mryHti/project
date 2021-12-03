@@ -4,13 +4,13 @@
             "Tambahan": ""
         },
         {
-            "ServerName": "Please update your app",
+            "ServerName": "We are closing or service for a while until Free toFly ready for Google Play Store",
             "ServerIP": "gogle.com"
         }
     ],
     "Servers2": [
         {
-            "ServerName": "Silakan perbarui aplikasi",
+            "ServerName": "Kami menutup layanan sementara sampai alikasi siap untuk tayang di Google Play Store",
             "ServerIP": "google.com"
         }
     ],
@@ -21,7 +21,7 @@
 		}
     ],
     "Version": {
-        "VersionCode": "8.70",
+        "VersionCode": "8.71",
         "ChangeLogs": "Update Server :\n+ Singapore\n+ Indonesia\n\nUpdate Bughost :\n- No\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
