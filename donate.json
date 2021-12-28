@@ -3,6 +3,10 @@
         {
             "Tambahan": ""
         },
+		{
+			"ServerName": "[A] INDONESIA TEST 01",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},
         {
             "ServerName": "[A] SINGAPORE 1",
             "ServerIP": "adsnet1.pete-dnsmaker.com"
@@ -82,86 +86,6 @@
         {
             "ServerName": "[A] SINGAPORE GAME 10",
             "ServerIP": "adsnet10.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 1",
-            "ServerIP": "adsnet16.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 2",
-            "ServerIP": "adsnet17.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 3",
-            "ServerIP": "adsnet18.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 4",
-            "ServerIP": "adsnet19.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 5",
-            "ServerIP": "adsnet20.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 6",
-            "ServerIP": "adsnet16.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 7",
-            "ServerIP": "adsnet17.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 8",
-            "ServerIP": "adsnet18.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 9",
-            "ServerIP": "adsnet19.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] ENGLAND 10",
-            "ServerIP": "adsnet20.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 1",
-            "ServerIP": "adsnet21.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 2",
-            "ServerIP": "adsnet22.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 3",
-            "ServerIP": "adsnet23.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 4",
-            "ServerIP": "adsnet24.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 5",
-            "ServerIP": "adsnet25.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 6",
-            "ServerIP": "adsnet21.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 7",
-            "ServerIP": "adsnet22.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 8",
-            "ServerIP": "adsnet23.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 9",
-            "ServerIP": "adsnet24.pete-dnsmaker.com"
-        },
-        {
-            "ServerName": "[A] UNITED STATES 10",
-            "ServerIP": "adsnet25.pete-dnsmaker.com"
         },
         {
             "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
@@ -504,6 +428,10 @@
             "PayloadHost": "104.18.12.65"
         },
         {
+			"PayloadName": "[A] INDONESIA TEST 01",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},
+        {
             "PayloadName": "[B] SINGAPORE 1",
             "PayloadHost": "adsnet1.pete-dnsmaker.com"
         },
@@ -582,90 +510,10 @@
         {
             "PayloadName": "[B] SINGAPORE GAME 10",
             "PayloadHost": "adsnet10.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 1",
-            "PayloadHost": "adsnet16.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 2",
-            "PayloadHost": "adsnet17.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 3",
-            "PayloadHost": "adsnet18.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 4",
-            "PayloadHost": "adsnet19.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 5",
-            "PayloadHost": "adsnet20.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 6",
-            "PayloadHost": "adsnet16.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 7",
-            "PayloadHost": "adsnet17.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 8",
-            "PayloadHost": "adsnet18.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 9",
-            "PayloadHost": "adsnet19.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] ENGLAND 10",
-            "PayloadHost": "adsnet20.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 1",
-            "PayloadHost": "adsnet21.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 2",
-            "PayloadHost": "adsnet22.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 3",
-            "PayloadHost": "adsnet23.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 4",
-            "PayloadHost": "adsnet24.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 5",
-            "PayloadHost": "adsnet25.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 6",
-            "PayloadHost": "adsnet21.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 7",
-            "PayloadHost": "adsnet22.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 8",
-            "PayloadHost": "adsnet23.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 9",
-            "PayloadHost": "adsnet24.pete-dnsmaker.com"
-        },
-        {
-            "PayloadName": "[B] UNITED STATES 10",
-            "PayloadHost": "adsnet25.pete-dnsmaker.com"
         }
     ],
     "Version": {
-        "VersionCode": "9.16",
-        "ChangeLogs": "Update Server :\n- Penyegaran\n\nUpdate Bughost :\n+ Telkomsel Gamesmax\n+ Telkomsel Ilmupedia\n+ Celcom Malaysia\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.17",
+        "ChangeLogs": "Update Server :\n+ INDONESIA\n\nUpdate Bughost :\n+ NO\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
