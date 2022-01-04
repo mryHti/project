@@ -3,8 +3,36 @@
         {
             "Tambahan": ""
         },
-		{
-			"ServerName": "[A] INDONESIA TEST 01",
+		    {
+			"ServerName": "[A] INDONESIA 01",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 02",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 03",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 04",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 05",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},
+		    {
+			"ServerName": "[A] INDONESIA 06",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 07",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 08",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 09",
+			"ServerIP": "indos.pete-dnsmaker.com"
+		},{
+			"ServerName": "[A] INDONESIA 10",
 			"ServerIP": "indos.pete-dnsmaker.com"
 		},
         {
@@ -347,6 +375,10 @@
             "PayloadName": "[A] INDOSAT FREEDOM EDUKASI 4",
             "PayloadHost": "kuntul-davi-besar-sekali-rambutnya.lebat.w12qr.opdns.net"
         },
+          {
+            "PayloadName": "[A] INDOSAT TIKTOK",
+            "PayloadHost": "104.17.37.80"
+        },
         {
             "PayloadName": "[A] MALAYSIA 1",
             "PayloadHost": "www.who.int"
@@ -427,8 +459,36 @@
             "PayloadName": "[A] XL OPOK",
             "PayloadHost": "104.18.12.65"
         },
-        {
-			"PayloadName": "[A] INDONESIA TEST 01",
+           {
+			"PayloadName": "[B] INDONESIA 01",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 02",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 03",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 04",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 05",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},
+		    {
+			"PayloadName": "[B] INDONESIA 06",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 07",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 08",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 09",
+			"PayloadHost": "indos.pete-dnsmaker.com"
+		},{
+			"PayloadName": "[B] INDONESIA 10",
 			"PayloadHost": "indos.pete-dnsmaker.com"
 		},
         {
@@ -513,7 +573,7 @@
         }
     ],
     "Version": {
-        "VersionCode": "9.17",
-        "ChangeLogs": "Update Server :\n+ INDONESIA\n\nUpdate Bughost :\n+ NO\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.18",
+        "ChangeLogs": "Update Server :\n+ INDONESIA\n\nUpdate Bughost :\n+ INDOSAT TIKTOK\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
