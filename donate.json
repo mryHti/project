@@ -49,31 +49,31 @@
         },
         {
             "ServerName": "[A] SINGAPORE 4 PRO",
-            "ServerIP": "adsnet4.pete-dnsmaker.com"
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE 5 PRO",
-            "ServerIP": "adsnet5.pete-dnsmaker.com"
+            "ServerIP": "adsnet2.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE 6 PRO",
-            "ServerIP": "adsnet6.pete-dnsmaker.com"
+            "ServerIP": "adsnet3.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE 7 PRO",
-            "ServerIP": "adsnet7.pete-dnsmaker.com"
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE 8 PRO",
-            "ServerIP": "adsnet8.pete-dnsmaker.com"
+            "ServerIP": "adsnet2.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE 9 PRO",
-            "ServerIP": "adsnet9.pete-dnsmaker.com"
+            "ServerIP": "adsnet3.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE 10 PRO",
-            "ServerIP": "adsnet10.pete-dnsmaker.com"
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 1 PRO",
@@ -89,31 +89,31 @@
         },
         {
             "ServerName": "[A] SINGAPORE GAME 4 PRO",
-            "ServerIP": "adsnet4.pete-dnsmaker.com"
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 5 PRO",
-            "ServerIP": "adsnet5.pete-dnsmaker.com"
+            "ServerIP": "adsnet2.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 6 PRO",
-            "ServerIP": "adsnet6.pete-dnsmaker.com"
+            "ServerIP": "adsnet3.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 7 PRO",
-            "ServerIP": "adsnet7.pete-dnsmaker.com"
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 8 PRO",
-            "ServerIP": "adsnet8.pete-dnsmaker.com"
+            "ServerIP": "adsnet2.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 9 PRO",
-            "ServerIP": "adsnet9.pete-dnsmaker.com"
+            "ServerIP": "adsnet3.pete-dnsmaker.com"
         },
         {
             "ServerName": "[A] SINGAPORE GAME 10 PRO",
-            "ServerIP": "adsnet10.pete-dnsmaker.com"
+            "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
             "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
@@ -501,31 +501,31 @@
         },
         {
             "PayloadName": "[B] SINGAPORE 4 PRO",
-            "PayloadHost": "adsnet4.pete-dnsmaker.com"
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE 5 PRO",
-            "PayloadHost": "adsnet5.pete-dnsmaker.com"
+            "PayloadHost": "adsnet2.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE 6 PRO",
-            "PayloadHost": "adsnet6.pete-dnsmaker.com"
+            "PayloadHost": "adsnet3.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE 7 PRO",
-            "PayloadHost": "adsnet7.pete-dnsmaker.com"
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE 8 PRO",
-            "PayloadHost": "adsnet8.pete-dnsmaker.com"
+            "PayloadHost": "adsnet2.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE 9 PRO",
-            "PayloadHost": "adsnet9.pete-dnsmaker.com"
+            "PayloadHost": "adsnet3.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE 10 PRO",
-            "PayloadHost": "adsnet10.pete-dnsmaker.com"
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 1 PRO",
@@ -541,35 +541,35 @@
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 4 PRO",
-            "PayloadHost": "adsnet4.pete-dnsmaker.com"
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 5 PRO",
-            "PayloadHost": "adsnet5.pete-dnsmaker.com"
+            "PayloadHost": "adsnet2.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 6 PRO",
-            "PayloadHost": "adsnet6.pete-dnsmaker.com"
+            "PayloadHost": "adsnet3.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 7 PRO",
-            "PayloadHost": "adsnet7.pete-dnsmaker.com"
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 8 PRO",
-            "PayloadHost": "adsnet8.pete-dnsmaker.com"
+            "PayloadHost": "adsnet2.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 9 PRO",
-            "PayloadHost": "adsnet9.pete-dnsmaker.com"
+            "PayloadHost": "adsnet3.pete-dnsmaker.com"
         },
         {
             "PayloadName": "[B] SINGAPORE GAME 10 PRO",
-            "PayloadHost": "adsnet10.pete-dnsmaker.com"
+            "PayloadHost": "adsnet1.pete-dnsmaker.com"
         }
     ],
     "Version": {
-        "VersionCode": "9.19",
-        "ChangeLogs": "Update Server :\n+ PENYEGARAN\n\nUpdate Bughost :\n+ NO\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.20",
+        "ChangeLogs": "Update Server :\n+ Singapura dan Singapura Game\n\nUpdate Bughost :\n+ NO\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
