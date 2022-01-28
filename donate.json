@@ -3,38 +3,6 @@
         {
             "Tambahan": ""
         },
-		    {
-			"ServerName": "[A] INDONESIA 01 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 02 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 03 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 04 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 05 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},
-		    {
-			"ServerName": "[A] INDONESIA 06 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 07 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 08 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 09 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},{
-			"ServerName": "[A] INDONESIA 10 PRO",
-			"ServerIP": "indos.pete-dnsmaker.com"
-		},
         {
             "ServerName": "[A] SINGAPORE 1 PRO",
             "ServerIP": "adsnet1.pete-dnsmaker.com"
@@ -455,38 +423,6 @@
             "PayloadName": "[A] XL OPOK",
             "PayloadHost": "104.18.12.65"
         },
-           {
-			"PayloadName": "[B] INDONESIA 01 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 02 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 03 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 04 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 05 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},
-		    {
-			"PayloadName": "[B] INDONESIA 06 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 07 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 08 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 09 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},{
-			"PayloadName": "[B] INDONESIA 10 PRO",
-			"PayloadHost": "indos.pete-dnsmaker.com"
-		},
         {
             "PayloadName": "[B] SINGAPORE 1 PRO",
             "PayloadHost": "adsnet1.pete-dnsmaker.com"
@@ -569,7 +505,7 @@
         }
     ],
     "Version": {
-        "VersionCode": "9.20",
+        "VersionCode": "9.21",
         "ChangeLogs": "Update Server :\n+ Singapura dan Singapura Game\n\nUpdate Bughost :\n+ NO\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
     }
 }
