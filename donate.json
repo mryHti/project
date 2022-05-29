@@ -84,6 +84,10 @@
             "ServerIP": "adsnet1.pete-dnsmaker.com"
         },
         {
+			"ServerName":"TEST",
+			"ServerIP":"adsnet03.pete-dnsmaker.com"
+		},
+        {
             "ServerName": "[B] TELKOMSEL MAXSTREAM 1",
             "ServerIP": "connect.hbogo.eu"
         },
@@ -505,7 +509,7 @@
         }
     ],
     "Version": {
-        "VersionCode": "9.23",
-        "ChangeLogs": "Update Server :\n+ Indonesia\n\nUpdate Bughost :\n+ NO\n\nTerimakasih atas kesetiaan Anda bersama Free to Fly ❤️"
+        "VersionCode": "9.24",
+        "ChangeLogs": "TEST"
     }
 }
